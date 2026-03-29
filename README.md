@@ -40,6 +40,7 @@ A C library for manipulating singly linked lists of integers, focused on simplic
 
 ## 📁 Project Structure
 
+```
 ├── include/
 │ └── intlist.h
 ├── src/
@@ -47,6 +48,7 @@ A C library for manipulating singly linked lists of integers, focused on simplic
 ├── lib/
 │ └── libintlist.a
 └── main.c
+```
 
 ---
 ## ⚙️ Build Instructions
