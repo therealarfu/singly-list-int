@@ -113,6 +113,6 @@ free(string);
 ```
 
 ## 📌 Notes
-- The library operates on integers (int) only
+- The library operates on integers (``int``) only
 - Functions handle null pointers safely when applicable
-- Allocation failures return NULL or false
+- Allocation failures return ``NULL`` or ``false``
